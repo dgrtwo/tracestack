@@ -1,18 +1,18 @@
-# stackme
+# tracestack
 Search Stack Overflow for your most recent error message.
 
 You can install the package with [devtools](https://github.com/hadley/devtools) as such: 
 
     # install.packages("devtools")
-    devtools::install_github("dgrtwo/stackme")
+    devtools::install_github("dgrtwo/tracestack")
 
 Load it with
 
-    library(stackme)
+    library(tracestack)
 
 Then after you get an error message, simply run:
 
-    stackme()
+    tracestack()
 
 ## About
 
