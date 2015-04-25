@@ -1,4 +1,4 @@
-Package: stackme
+Package: tracestack
 Title: Search for your most recent error message on Stack Overflow
 Version: 0.0.0.9000
 Authors@R: person("David", "Robinson", email = "admiral.david@gmail.com", role = c("aut", "cre"))
