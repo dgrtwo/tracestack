@@ -1,0 +1,11 @@
+Package: stackme
+Title: Search for your most recent error message on Stack Overflow
+Version: 0.0.0.9000
+Authors@R: person("David", "Robinson", email = "admiral.david@gmail.com", role = c("aut", "cre"))
+Description: Open a browser and search the programming Q+A site Stack Overflow
+    for your most recent error message.
+License: MIT + file LICENSE
+LazyData: true
+Authors: David Robinson <admiral.david@gmail.com> [aut, cre]
+URL: http://github.com/dgrtwo/stackme
+BugReports: http://github.com/dgrtwo/stackme/issues
